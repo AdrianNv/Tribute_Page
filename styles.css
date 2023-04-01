@@ -1,1 +1,26 @@
-
+#main{
+  font-size: 16px;
+  
+}
+#title{
+  text-align: center;
+}
+#img-div{
+  margin-top: 50px;
+  align-content: center;
+  
+}
+#image{
+  border-radius: 5px;
+  max-width:100%;
+  display:block;
+}
+#img-caption{
+  text-align: center;
+}
+#tribute-info{
+  margin-top:30px;
+}
+#tribute-link{
+  display:block;
+}
